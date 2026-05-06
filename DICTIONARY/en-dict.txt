@@ -1,5 +1,8 @@
-// the CPU cannot read lines starting with "//", allowing easy epanding. Hopefully within a realistic amount of time, 
-//I can add the entire dictionary.
+/ the program cannot read words or sentences starting with "//".
+// to structure meaning, surf through what it says, remove nonsense, but keep what could potentially be seen as coherent.
+// THE CPU SPEAKS
+
+// Total Words: 198
 
 // greetings
 Hello
@@ -12,7 +15,16 @@ Are
 You
 
 
+// computer
+Computer
+RAM
+CPU
+GPU
+VRAM
+Battery
+
 // people
+I
 Me
 Nathan
 Janice
@@ -22,12 +34,11 @@ Marry
 Kiara
 Chris
 Curtis
-
-
-// hardware
-CPU
-RAM
-GPU
+Alex
+John
+Smith
+Slone
+Axel
 
 
 // market
@@ -41,7 +52,10 @@ Jesus
 Allah
 Jewish
 Jew
-
+Christian
+Muslim
+Islam
+Christianity
 
 // animals
 Rat
@@ -193,3 +207,33 @@ _
 98
 99
 100
+
+
+// items
+Axe
+Television
+Xbox
+Stick
+Wood
+Stone
+Bomb
+Fan
+A/C
+Doll
+
+
+// extra
+Am
+Extra
+Weird
+Nigger
+Nigga
+Chink
+Cracker
+Monkey
+Wacker
+Hard
+Cock
+Balls
+Torture
+Fight
